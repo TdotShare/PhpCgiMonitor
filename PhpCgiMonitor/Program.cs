@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 using System.Net.Http;
+using System.Threading;
 using System.Threading.Tasks;
 
 class Program
@@ -24,7 +25,7 @@ class Program
             if (content != "ping")
             {
                 Console.WriteLine("Invalid response. Restarting php-cgi...");
-               RestartPhpCgi(phpCgiPath, phpCgiArgs);
+                RestartPhpCgi(phpCgiPath, phpCgiArgs);
             }
             else
             {
@@ -37,7 +38,11 @@ class Program
             RestartPhpCgi(phpCgiPath, phpCgiArgs);
         }
 
-        return 0;
+        // หน่วงเวลาให้เห็นผลลัพธ์ก่อนโปรแกรมปิด
+        Thread.Sleep(1500);
+        Environment.Exit(0);
+
+        return 0; // จะไม่ถึงจุดนี้เพราะ Environment.Exit จบโปรแกรมไปก่อน
     }
 
     static void RestartPhpCgi(string path, string args)

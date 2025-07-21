@@ -12,3 +12,4 @@ C:\Users\Admin\source\repos\PhpCgiMonitor\PhpCgiMonitor\obj\Debug\net8.0\refint\
 C:\Users\Admin\source\repos\PhpCgiMonitor\PhpCgiMonitor\obj\Debug\net8.0\PhpCgiMonitor.pdb
 C:\Users\Admin\source\repos\PhpCgiMonitor\PhpCgiMonitor\obj\Debug\net8.0\PhpCgiMonitor.genruntimeconfig.cache
 C:\Users\Admin\source\repos\PhpCgiMonitor\PhpCgiMonitor\obj\Debug\net8.0\ref\PhpCgiMonitor.dll
+C:\Users\Admin\source\repos\PhpCgiMonitor\PhpCgiMonitor\obj\Debug\net8.0\PhpCgiMonitor.sourcelink.json

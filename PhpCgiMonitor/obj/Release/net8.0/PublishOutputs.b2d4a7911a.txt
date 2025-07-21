@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\PhpCgiMonitor\PhpCgiMonitor\bin\Release\net8.0\publish\PhpCgiMonitor.exe
+C:\Users\Admin\source\repos\PhpCgiMonitor\PhpCgiMonitor\bin\Release\net8.0\publish\PhpCgiMonitor.dll
+C:\Users\Admin\source\repos\PhpCgiMonitor\PhpCgiMonitor\bin\Release\net8.0\publish\PhpCgiMonitor.deps.json
+C:\Users\Admin\source\repos\PhpCgiMonitor\PhpCgiMonitor\bin\Release\net8.0\publish\PhpCgiMonitor.runtimeconfig.json
+C:\Users\Admin\source\repos\PhpCgiMonitor\PhpCgiMonitor\bin\Release\net8.0\publish\PhpCgiMonitor.pdb
