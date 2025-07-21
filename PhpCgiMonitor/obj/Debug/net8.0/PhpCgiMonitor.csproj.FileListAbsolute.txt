@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\PhpCgiMonitor\PhpCgiMonitor\bin\Debug\net8.0\PhpCgiMonitor.exe
+C:\Users\Admin\source\repos\PhpCgiMonitor\PhpCgiMonitor\bin\Debug\net8.0\PhpCgiMonitor.deps.json
+C:\Users\Admin\source\repos\PhpCgiMonitor\PhpCgiMonitor\bin\Debug\net8.0\PhpCgiMonitor.runtimeconfig.json
+C:\Users\Admin\source\repos\PhpCgiMonitor\PhpCgiMonitor\bin\Debug\net8.0\PhpCgiMonitor.dll
+C:\Users\Admin\source\repos\PhpCgiMonitor\PhpCgiMonitor\bin\Debug\net8.0\PhpCgiMonitor.pdb
+C:\Users\Admin\source\repos\PhpCgiMonitor\PhpCgiMonitor\obj\Debug\net8.0\PhpCgiMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\PhpCgiMonitor\PhpCgiMonitor\obj\Debug\net8.0\PhpCgiMonitor.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\PhpCgiMonitor\PhpCgiMonitor\obj\Debug\net8.0\PhpCgiMonitor.AssemblyInfo.cs
+C:\Users\Admin\source\repos\PhpCgiMonitor\PhpCgiMonitor\obj\Debug\net8.0\PhpCgiMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PhpCgiMonitor\PhpCgiMonitor\obj\Debug\net8.0\PhpCgiMonitor.dll
+C:\Users\Admin\source\repos\PhpCgiMonitor\PhpCgiMonitor\obj\Debug\net8.0\refint\PhpCgiMonitor.dll
+C:\Users\Admin\source\repos\PhpCgiMonitor\PhpCgiMonitor\obj\Debug\net8.0\PhpCgiMonitor.pdb
+C:\Users\Admin\source\repos\PhpCgiMonitor\PhpCgiMonitor\obj\Debug\net8.0\PhpCgiMonitor.genruntimeconfig.cache
+C:\Users\Admin\source\repos\PhpCgiMonitor\PhpCgiMonitor\obj\Debug\net8.0\ref\PhpCgiMonitor.dll
